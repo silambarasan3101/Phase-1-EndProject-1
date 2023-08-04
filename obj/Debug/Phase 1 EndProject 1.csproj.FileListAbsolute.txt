@@ -1,0 +1,8 @@
+E:\Assisted\PhaseEndProject 1\PhaseEndProject 1\bin\Debug\PhaseEndProject 1.exe.config
+E:\Assisted\PhaseEndProject 1\PhaseEndProject 1\bin\Debug\PhaseEndProject 1.exe
+E:\Assisted\PhaseEndProject 1\PhaseEndProject 1\bin\Debug\PhaseEndProject 1.pdb
+E:\Assisted\PhaseEndProject 1\PhaseEndProject 1\obj\Debug\Phase 1 EndProject 1.csproj.AssemblyReference.cache
+E:\Assisted\PhaseEndProject 1\PhaseEndProject 1\obj\Debug\Phase 1 EndProject 1.csproj.SuggestedBindingRedirects.cache
+E:\Assisted\PhaseEndProject 1\PhaseEndProject 1\obj\Debug\Phase 1 EndProject 1.csproj.CoreCompileInputs.cache
+E:\Assisted\PhaseEndProject 1\PhaseEndProject 1\obj\Debug\PhaseEndProject 1.exe
+E:\Assisted\PhaseEndProject 1\PhaseEndProject 1\obj\Debug\PhaseEndProject 1.pdb
